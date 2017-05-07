@@ -1,5 +1,7 @@
+# Problem:
 ## There are two classes. How many goals can each player score individually and how many goals in total! ##
 
+# Solution
 class Team_Goals
   def initialize(team)
     @team = team

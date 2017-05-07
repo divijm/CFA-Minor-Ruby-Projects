@@ -1,5 +1,7 @@
+# Problem
 ## There are two writers. How many words can each writer write and how many words in the book in total? ##
 
+# Solution
 class Book
   def initialize(book_name)
     @book_name = book_name
